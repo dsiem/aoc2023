@@ -6,3 +6,4 @@ This repository contains my solutions for the [Advent of Code 2023](https://adve
 |---|---|---|
 |[Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)|&#11088;|&#11088;|
 |[Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)|&#11088;|&#11088;|
+|[Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)|&#11088;|&#11088;|
