@@ -13,3 +13,4 @@ This repository contains my solutions for the [Advent of Code 2023](https://adve
 |[Day 7: Camel Cards](https://adventofcode.com/2023/day/7)|&#11088;|&#11088;|
 |[Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8)|&#11088;|&#11088;|
 |[Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9)|&#11088;|&#11088;|
+|[Day 12: Hot Springs](https://adventofcode.com/2023/day/12)|&#11088;|&#11088;|
