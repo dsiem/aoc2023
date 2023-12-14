@@ -5,4 +5,4 @@ for i, n in enumerate(wins):
     for j in range(n):
         cards[1 + i + j] += cards[i]
 
-print(sum(2 ** (n - 1) for n in wins if n > 0), sum(cards))
+print(sum(round(2 ** (n - 1)) for n in wins), sum(cards))
