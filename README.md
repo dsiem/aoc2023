@@ -15,3 +15,4 @@ This repository contains my solutions for the [Advent of Code 2023](https://adve
 |[Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9)|&#11088;|&#11088;|
 |[Day 12: Hot Springs](https://adventofcode.com/2023/day/12)|&#11088;|&#11088;|
 |[Day 13: Point of Incidence](https://adventofcode.com/2023/day/13)|&#11088;|&#11088;|
+|[Day 15: Lens Library](https://adventofcode.com/2023/day/15)|&#11088;|&#11088;|
