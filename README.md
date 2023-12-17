@@ -16,3 +16,4 @@ This repository contains my solutions for the [Advent of Code 2023](https://adve
 |[Day 12: Hot Springs](https://adventofcode.com/2023/day/12)|&#11088;|&#11088;|
 |[Day 13: Point of Incidence](https://adventofcode.com/2023/day/13)|&#11088;|&#11088;|
 |[Day 15: Lens Library](https://adventofcode.com/2023/day/15)|&#11088;|&#11088;|
+|[Day 17: Clumsy Crucible](https://adventofcode.com/2023/day/17)|&#11088;|&#11088;|
